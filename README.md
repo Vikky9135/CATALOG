@@ -6,6 +6,6 @@ After cloning , Your directiry must contain json directory.
 
 To run on VSCODE 
 
- g++ main.cpp -o main -I json/single_include \n
+ g++ main.cpp -o main -I json/single_include      
 .\main.exe
 
